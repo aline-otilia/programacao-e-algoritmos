@@ -1,2 +1,2 @@
 # Programação e Algoritmos
-Arquivos dos conteúdos desenvolvidos em aula, com Prof° Valdemir Pedro.
+Exercícios feito dia 13/04/2022.
