@@ -1,0 +1,9 @@
+var v = [10, 33, 44, 67, 88];
+
+var qtdePares = 0;
+for (var i = 0; i < v.length; i++) {
+    if(v[i] % 2 == 0){
+        qtdePares++;
+    }
+}
+console.log("Qtde de pares: " + qtdePares);
